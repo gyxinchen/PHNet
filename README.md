@@ -99,7 +99,9 @@ Random_cine_CMR_Data：
 ```
 
 ## [Acknowledgments]
+
 Reference:
+
 [1] Swift, A. J., Lu, H., Uthoff, J., Garg, P., Cogliano, M., Taylor, J., ... & Kiely, D. G. (2021). A machine learning cardiac magnetic resonance approach to extract disease features and automate pulmonary arterial hypertension diagnosis. European Heart Journal-Cardiovascular Imaging.
 
 Thanks to the University of Sheffield for providing the pulmonary hypertension dataset. 
