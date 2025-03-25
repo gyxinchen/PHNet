@@ -101,9 +101,11 @@ Random_cine_CMR_Data：
 ## [Acknowledgments]
 Reference:
 [1] Swift, A. J., Lu, H., Uthoff, J., Garg, P., Cogliano, M., Taylor, J., ... & Kiely, D. G. (2021). A machine learning cardiac magnetic resonance approach to extract disease features and automate pulmonary arterial hypertension diagnosis. European Heart Journal-Cardiovascular Imaging.
+
 Thanks to the University of Sheffield for providing the pulmonary hypertension dataset. 
 The project linked as below:
 [PAH Diagnosis from Cardiac MRI via Multilinear PCA](https://github.com/pykale/pykale/tree/main/examples/cmri_mpca)
+
 The dataset linked as below:
 [ShefPAH-179 v2.0 (short-axis) cardiac MRI dataset](https://github.com/pykale/data/tree/main/images/ShefPAH-179)
 
